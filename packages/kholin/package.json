@@ -1,0 +1,15 @@
+{
+    "name": "kholin",
+    "version": "0.0.1",
+    "description": "A useful framework",
+    "main": "index.js",
+    "author": "Kyle Bromma",
+    "license": "MIT",
+    "dependencies": {
+        "@kholin/util": "^0.1.5",
+        "@kholin/eslint-config": "^0.1.5",
+        "@kholin/babel-config": "^0.1.5",
+        "@kholin/prettier-config": "^0.1.5",
+        "@kholin/jest-config": "^0.1.5"
+    }
+}
